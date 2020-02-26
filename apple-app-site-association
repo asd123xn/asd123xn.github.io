@@ -3,7 +3,7 @@
     "apps":[],
     "detail":[{
        "appID":"TD3F3DL6B2.com.natsu.joynotes",
-       "paths": ["*"]
+       "paths": ["*","/*"]
     }]
  }
 }
